@@ -30,5 +30,5 @@ Add the following to your root `build.gradle` file
     }
 
 ## Documentation
-Please visit  [documentation](https://docs.smartsupp.com/)  for Quick Start and detailed explanations.
+Please visit  [documentation](https://docs.smartsupp.com/smartsupp-sdk/android/installation/)  for Quick Start and detailed explanations.
 **TODO Add correct link**
