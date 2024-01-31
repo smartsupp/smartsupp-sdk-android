@@ -1,14 +1,22 @@
 ![enter image description here](https://docs.smartsupp.com/assets/img/logo.svg)
 
-## Chat support in your mobile app
+# Add Smartsupp widget to your Android App
 
-**TODO some can of marketing text.** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome to the documentation of the Smartsupp framework, your gateway to seamless live chat communication with customer support in your mobile applications. This document is designed to assist you in integrating and utilizing Smartsupp effectively within your projects.
+
+## Features
+
+- Full support for the powerful Smartsupp widget
+- Identify visitor with name, email and phone number, add custom variables
+- Get update on incoming messages, account status
+
+## Compatibility
+
+Smartsupp for Android supports API 24 and above.
 
 ![Sdk Preview](https://github.com/smartsupp/smartsupp-sdk-android/blob/add_readme_docs/art/sdk_preview.png)
 
 ## Installation
-
-Smartsupp for Android supports API 24 and above.
 
 Add the following dependency to your app's  `build.gradle`  file:
 
@@ -27,4 +35,4 @@ Add the following to your root `build.gradle` file
     }
 
 ## Documentation
-Please visit  [documentation](https://docs.smartsupp.com/smartsupp-sdk/android/installation/)  for Quick Start and detailed explanations.
+For more information on how to use this SDK, visit the official [documentation](https://docs.smartsupp.com/smartsupp-sdk/).
