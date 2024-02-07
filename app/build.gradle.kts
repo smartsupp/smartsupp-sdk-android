@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.smartsupp.sdk.android.sample"
+    namespace = "com.smartsupp.mobile.sdk.android.sample"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.smartsupp.sdk.android.sample"
+        applicationId = "com.smartsupp.mobile.sdk.android.sample"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -49,5 +49,5 @@ dependencies {
     implementation("com.google.android.material:material:1.11.0")
 
     // Smartsupp SDK
-    implementation("com.smartsupp.android:android-sdk:0.0.2")
+    implementation("com.smartsupp.android:android-sdk:0.0.6")
 }
