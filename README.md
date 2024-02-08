@@ -38,4 +38,4 @@ Add the following to your root `build.gradle` file
     }
 
 ## Documentation
-For more information on how to use this SDK, visit the official [documentation](https://docs.smartsupp.com/smartsupp-sdk/).
+For more information on how to use this SDK, visit the official [documentation](https://docs.smartsupp.com/mobile-sdk/).
