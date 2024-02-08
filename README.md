@@ -12,7 +12,7 @@ This document is designed to assist you in integrating and utilizing Smartsupp e
 
 - Full compatibility with the powerful Smartsupp widget
 - Visitor identification through name, email, and telephone, with the option to add specific variables
-- Get update on incoming messages, account status
+- Information about the number of incoming messages and the status of your account
 
 ## Compatibility
 
