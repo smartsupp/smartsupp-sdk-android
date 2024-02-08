@@ -5,12 +5,13 @@
 
 # Add Smartsupp widget to your Android App
 
-Welcome to the documentation of the Smartsupp framework, your gateway to seamless live chat communication with customer support in your mobile applications. This document is designed to assist you in integrating and utilizing Smartsupp effectively within your projects.
+Welcome to the Smartsupp framework documentation, your getaway to integrating effortless live chat support into your mobile applications.
+This document is designed to assist you in integrating and utilizing Smartsupp effectively within your projects.
 
 ## Features
 
-- Full support for the powerful Smartsupp widget
-- Identify visitor with name, email and phone number, add custom variables
+- Full compatibility with the powerful Smartsupp widget
+- Visitor identification through name, email, and telephone, with the option to add specific variables
 - Get update on incoming messages, account status
 
 ## Compatibility
