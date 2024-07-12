@@ -16,7 +16,7 @@ This document is designed to assist you in integrating and utilizing Smartsupp e
 
 ## Compatibility
 
-Smartsupp for Android supports API 24 and above.
+Smartsupp for Android supports API 23 and above.
 
 ![Sdk Preview](./art/sdk_preview.png)
 
@@ -25,7 +25,7 @@ Smartsupp for Android supports API 24 and above.
 Add the following dependency to your app's  `build.gradle`  file:
 
     dependencies {
-        implementation("com.smartsupp.android:android-sdk:1.0.0")
+        implementation("com.smartsupp.android:android-sdk:1.1.1")
     }
 
 #### Maven central

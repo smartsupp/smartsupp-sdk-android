@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.smartsupp.mobile.sdk.android.sample"
-        minSdk = 24
+        minSdk = 23
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -49,5 +49,5 @@ dependencies {
     implementation("com.google.android.material:material:1.11.0")
 
     // Smartsupp SDK
-    implementation("com.smartsupp.android:android-sdk:1.1.0")
+    implementation("com.smartsupp.android:android-sdk:1.1.1")
 }
