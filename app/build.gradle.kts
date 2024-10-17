@@ -49,5 +49,5 @@ dependencies {
     implementation("com.google.android.material:material:1.11.0")
 
     // Smartsupp SDK
-    implementation("com.smartsupp.android:android-sdk:1.1.1")
+    implementation("com.smartsupp.android:android-sdk:1.2.1")
 }
